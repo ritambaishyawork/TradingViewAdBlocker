@@ -16,7 +16,7 @@ Click "Add a new script."
 Paste the script's source code into the editor.
 Click "Save."
 
-4. Enable the Script
+3. Enable the Script
 
 Check Script Settings: In Tampermonkey's dashboard, make sure the script is enabled.
 Refresh the Page: Reload the webpage where you want to use the script.
