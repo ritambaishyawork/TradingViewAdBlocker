@@ -4,9 +4,22 @@ This Tampermonkey script removes intrusive advertisements from your TradingView 
 
 **Installation:**
 
-1. Install Tampermonkey browser extension.
-2. Go to https://github.com/gge-ucd/Discussion/issues/48
-3. Click "Install" in Tampermonkey.
+1. Chrome: Go to the Chrome Web Store and search for "Tampermonkey." Click "Add to Chrome."
+Firefox: Go to the Firefox Add-ons website and search for "Tampermonkey." Click "Add to Firefox."
+Edge: Go to the Microsoft Edge Addons website and search for "Tampermonkey." Click "Get."
+Other Browsers: Check your browser's extension store for "Tampermonkey."
+
+2. Install the Script From Source Code:
+
+Open Tampermonkey's dashboard in your browser.
+Click "Add a new script."
+Paste the script's source code into the editor.
+Click "Save."
+
+4. Enable the Script
+
+Check Script Settings: In Tampermonkey's dashboard, make sure the script is enabled.
+Refresh the Page: Reload the webpage where you want to use the script.
 
 **Disclaimer:** 
 
